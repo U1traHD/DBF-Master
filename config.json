@@ -1,0 +1,15 @@
+{
+  "InputFiles": [
+    "path/to/first_file.dbf",
+    "path/to/second_file.dbf"
+  ],
+  "OutputFile": "path/to/output_file.dbf",
+  "MergeSettings": {
+    "MergeOrder": "sequential",
+    "MatchKeys": [ "id", "name" ]
+  },
+  "Logging": {
+    "Level": "info",
+    "LogFile": "path/to/log_file.log"
+  }
+}

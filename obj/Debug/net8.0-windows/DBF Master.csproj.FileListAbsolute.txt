@@ -1,0 +1,24 @@
+E:\progi\DBF Master\bin\Debug\net8.0-windows\DBF Master.exe
+E:\progi\DBF Master\bin\Debug\net8.0-windows\DBF Master.deps.json
+E:\progi\DBF Master\bin\Debug\net8.0-windows\DBF Master.runtimeconfig.json
+E:\progi\DBF Master\bin\Debug\net8.0-windows\DBF Master.dll
+E:\progi\DBF Master\bin\Debug\net8.0-windows\DBF Master.pdb
+E:\progi\DBF Master\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.csproj.AssemblyReference.cache
+E:\progi\DBF Master\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\progi\DBF Master\obj\Debug\net8.0-windows\App.g.cs
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master_MarkupCompile.cache
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master_MarkupCompile.lref
+E:\progi\DBF Master\obj\Debug\net8.0-windows\MainWindow.baml
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.g.resources
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.GeneratedMSBuildEditorConfig.editorconfig
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.AssemblyInfoInputs.cache
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.AssemblyInfo.cs
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.csproj.CoreCompileInputs.cache
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.csproj.Up2Date
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.dll
+E:\progi\DBF Master\obj\Debug\net8.0-windows\refint\DBF Master.dll
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.pdb
+E:\progi\DBF Master\obj\Debug\net8.0-windows\DBF Master.genruntimeconfig.cache
+E:\progi\DBF Master\obj\Debug\net8.0-windows\ref\DBF Master.dll
+E:\progi\DBF Master\bin\Debug\net8.0-windows\DbfDataReader.dll

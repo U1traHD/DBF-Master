@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBF Master", "DBF Master.csproj", "{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D945197-E9C6-483D-BD55-11F1AE89E93F}
+	EndGlobalSection
+EndGlobal

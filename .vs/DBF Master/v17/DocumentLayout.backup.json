@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\progi\\DBF Master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|e:\\progi\\dbf master\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|e:\\progi\\dbf master\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|e:\\progi\\dbf master\\readconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|solutionrelative:readconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|e:\\progi\\dbf master\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|e:\\progi\\dbf master\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC0E40BB-068B-4BB9-AEF0-C1A7C1BAF302}|DBF Master.csproj|solutionrelative:config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadConfig.cs",
+              "DocumentMoniker": "E:\\progi\\DBF Master\\ReadConfig.cs",
+              "RelativeDocumentMoniker": "ReadConfig.cs",
+              "ToolTip": "E:\\progi\\DBF Master\\ReadConfig.cs",
+              "RelativeToolTip": "ReadConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:15:41.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "E:\\progi\\DBF Master\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "E:\\progi\\DBF Master\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:13:21.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "config.json",
+              "DocumentMoniker": "E:\\progi\\DBF Master\\config.json",
+              "RelativeDocumentMoniker": "config.json",
+              "ToolTip": "E:\\progi\\DBF Master\\config.json",
+              "RelativeToolTip": "config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T05:04:36.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\progi\\DBF Master\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\progi\\DBF Master\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T04:40:42.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\progi\\DBF Master\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\progi\\DBF Master\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:40:37.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
